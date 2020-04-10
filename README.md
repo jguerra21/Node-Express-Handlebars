@@ -1,5 +1,12 @@
 # Node-Express-Handlebars
 
+Deployed application link:https://desolate-river-06814.herokuapp.com/index
+
+Github link:https://github.com/jguerra21/burger
+
+![](./public/assets/images/giphy.gif)
+
+
 Node Express Handlebars
 Overview
 In this assignment, you'll create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). Be sure to follow the MVC design pattern; use Node and MySQL to query and route data in your app, and Handlebars to generate your HTML.
