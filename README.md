@@ -1,8 +1,10 @@
-# Node-Express-Handlebars
+# burger
 
 Deployed application link:https://desolate-river-06814.herokuapp.com/index
 
 Github link:https://github.com/jguerra21/burger
+
+Updated Portfolio link with burger app: https://jguerra21.github.io/professional-portfolio/portfolio.html
 
 ![](./public/assets/images/giphy.gif)
 
