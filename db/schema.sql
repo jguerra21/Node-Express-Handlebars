@@ -1,6 +1,5 @@
 DROP DATABASE IF EXISTS burgers_db;
 CREATE DATABASE burgers_db;
-
 USE burgers_db;
 -- Create the table burgers
 CREATE TABLE burgers (
@@ -10,6 +9,5 @@ CREATE TABLE burgers (
   date TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
   PRIMARY KEY (id)
 );
-
 SELECT
   'completed';

@@ -1,19 +1,21 @@
 body {
-    background-color: black;
+  background-color: black;
 }
-.jumbotron h1{
-    color: white;
+.jumbotron h1 {
+  color: rgb(185, 187, 48);
+  text-shadow: 2px 2px red;
 }
-.jumbotron{
-    padding-top: 1%;
-    background-color: transparent !important;
+.jumbotron {
+  padding-top: 1%;
+  background-color: transparent !important;
 }
 
 img {
-    margin-top: 5%;
-    width: 14%;
+  margin-top: 5%;
+  width: 30%;
 }
 
-.submitFont{
-    color: green;
+.submitFont {
+  color: rgb(185, 187, 48);
+  text-shadow: 1px 1px red;
 }
